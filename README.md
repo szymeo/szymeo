@@ -5,14 +5,9 @@
 
 - 🔭 I’m currently working on [Glixy](https://glixy.dev)
 
-- 👨‍💻 All of my projects are available at [https://szymeo.github.io](https://szymeo.github.io)
+- 👨‍💻 All of my projects are available in the [maze](https://szymeo.github.io)
 
 - ⚡ **You're cooler than you think, believe in yourself!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/simon_makes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simon_makes" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szymeo&show_icons=true&locale=en&layout=compact" alt="szymeo" /></p>
 
