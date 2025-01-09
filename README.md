@@ -1,7 +1,7 @@
 <h1 align="center">Hey fella your boy Simon here <3</h1>
 <h3 align="center">I'm trying to put myself on as many dope things as I can</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=szymeo&label=Cuties%20been%20here&color=9333ea&style=flat" alt="szymeo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=szymeo&label=Cuties%20been%20here&color=9333ea&style=flat" alt="szymeo" /> </p>
 
 - 🔭 I’m currently working on [Glixy](https://glixy.dev)
 
