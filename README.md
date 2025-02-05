@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available in the [maze](https://szymeo.github.io)
 
-- ⚡ **You're cooler than you think, believe in yourself!**
+- ⚡ **You can do the ting, believe in yourself!**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szymeo&show_icons=true&locale=en&layout=compact" alt="szymeo" /></p>
 
