@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=szymeo&label=Cuties%20been%20here&color=9333ea&style=flat" alt="szymeo" /> </p>
 
-- 🔭 I’m currently working on [Glixy](https://glixy.dev)
+- 🔭 I’m currently (18 Feb 2025) working on [Lollo](https://lollo.vercel.app), [Core](https://getcore.app), [Glixy](https://glixy.dev) and [Szpaj](https://szpaj.vercel.app)
 
 - 👨‍💻 All of my projects are available in the [maze](https://szymeo.github.io)
 
