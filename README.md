@@ -1,9 +1,8 @@
-<h1 align="center">Hey fella your boi Simon here =3</h1>
-<h3 align="center">I'm trying to put myself on as many dope things as I can</h3>
+<h1 align="center">Hey it's your boi Simon here 👊</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=szymeo&label=Cuties%20been%20here&color=9333ea&style=flat" alt="szymeo" /> </p>
 
-- 🔭 I’m currently (18 Feb 2025) working on [Lollo](https://lollo.vercel.app), [Core](https://getcore.app), [Glixy](https://glixy.dev) and [Szpaj](https://szpaj.vercel.app)
+- 🔭 I’m currently (21 April 2025) working on [logdash.io](https://logdash.io)
 
 - 👨‍💻 All of my projects are available in the [maze](https://szymeo.github.io)
 
